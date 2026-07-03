@@ -1,2 +1,1 @@
-"# python_learning" 
-"# idk" 
+piss off
