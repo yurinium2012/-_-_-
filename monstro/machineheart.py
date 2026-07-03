@@ -13,9 +13,9 @@ hands = mp_hands.Hands(
     min_tracking_confidence=0.5
 )
 
-mp_face = mp.solutions.face_detection
+mp_face = mp.solutions.face_detection 
 face_detection = mp_face.FaceDetection(
-    min_detection_confidence=0.5
+    min_detection_confidence=1.7
 )
 
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
