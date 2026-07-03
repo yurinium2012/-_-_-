@@ -1,4 +1,4 @@
-#day 2
+#ghoul
 1. Write a Python function that accepts two integer numbers. If the product of the two numbers is less than or equal to 1000, return their product; otherwise, return their sum.
 2. Iterate through the first 10 numbers (0–9). In each iteration, print the current number, the previous number, and their sum.
 3. Iterate through a given list of numbers and print only those numbers which are divisible by 5.
